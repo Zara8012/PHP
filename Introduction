@@ -1,0 +1,10 @@
+Wampserver
+créer page php et l'installer dans la racine www de wamp
+ouvrir en local: localhost:8081/[nom du fichier] --> http://localhost:8081/testwamp.php
+pour configurer en local aller sur wamp --> apache configurer le port [8081]
+
++++++
+
+Le PHP permet de faire le lien entre la base de données et la présentation en html.  Excemple, dans un menu déroulant, les données sont dynamiques et mises à jour via du PHP qui fait le lien des données vers le menu déroulant proposé par le html.
+Si les données du code écrit dans visual code, apparaissent dans le navigateur, cela veut dire que l'accès au serveur n'est pas protégé. 
+
