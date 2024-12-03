@@ -3,3 +3,5 @@ Quid connect.php ?
 Ligne de connection qui permet de se connecter à la db. PDO permet de se connecter à autre chose que du mysql (autres langages).
 DO c'est quoi? PDO signifie PHP Data Objects. Il s'agit d'une interface qui permet au scripts PHP d'interroger une base de données via des requêtes SQL. 
 PDO est une extension qui s'ajoute au PHP pour que ses différentes fonctionnalités soient disponibles dans le langage.
+
+https://github.com/Manonh97/php/blob/main/edit.php
